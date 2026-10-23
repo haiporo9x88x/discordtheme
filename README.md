@@ -14,7 +14,7 @@
 > 1. Download and install "Vencord" (Link above)
 > 2. Copy this 
 ```
-https://haiporo9x88x.github.io/acrydisc/acrydisc.css
+https://haiporo9x88x.github.io/discordtheme/discordtheme.css
 ```
 > 3. Go to "Discord User Settings" -> "Vencord Settings" -> "Themes" -> "Online Themes" -> Paste link to "Enter Theme Links..."
 > 4. Done!
@@ -24,9 +24,9 @@ https://haiporo9x88x.github.io/acrydisc/acrydisc.css
 #### Main chat area
 
 
-<img alt="Image" src="https://haiporo9x88x.github.io/acrydisc/image.png" />
+<img alt="Image" src="https://haiporo9x88x.github.io/discordtheme/Preview/image.png" />
 
 #### User settings
 
-<img alt="Image" src="https://haiporo9x88x.github.io/acrydisc/image1.png" />
+<img alt="Image" src="https://haiporo9x88x.github.io/discordtheme/Preview/image1.png" />
 
